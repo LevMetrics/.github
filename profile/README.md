@@ -1,4 +1,4 @@
-
+<img width="1600" alt="Screenshot 2023-05-25 at 10 16 20 AM" src="./lev.png">
 
 ### Who are we?
 <!-- https://gdscaec.org/ -->
