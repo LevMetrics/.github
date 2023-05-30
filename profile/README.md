@@ -1,4 +1,4 @@
-<img width="1600" alt="Screenshot 2023-05-25 at 10 16 20 AM" src="./lev.png">
+<img width="1600" alt="LevBanner" src="https://github.com/LevMetrics/.github/blob/main/profile/lev.png">
 
 ### Who are we?
 <!-- https://gdscaec.org/ -->
