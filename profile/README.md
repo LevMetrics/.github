@@ -1,6 +1,6 @@
 <img width="1600" alt="LevBanner" src="https://github.com/LevMetrics/.github/blob/main/profile/lev.png">
 
-### Who are we?
+### About us:
 <!-- https://gdscaec.org/ -->
 [Levmetrics.com](https://www.levmetrics.com) is an innovative IT products and services company committed to providing advanced solutions to our clients. We are passionate about using technology to solve complex challenges and drive business growth. 
 
